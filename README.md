@@ -27,7 +27,7 @@
 ![Transformers](https://img.shields.io/badge/Transformers-%23FF9A00.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Om-Varma12/VikrantKadam028/refs/heads/main/githubuser.svg" alt="Alt text" />
+  <img src="https://raw.githubusercontent.com/Om-Varma12/Om-Varma12/refs/heads/main/githubuser.svg" alt="Alt text" />
 </p>
 
 <div align="center">
