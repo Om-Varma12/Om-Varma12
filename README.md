@@ -58,3 +58,15 @@
 <div align="center">  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
+
+<h2>🔄 LeetCode Progress</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Om_Varma?ext=heatmap&theme=dark" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/Om_Varma/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+</p>
