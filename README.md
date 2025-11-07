@@ -48,7 +48,7 @@
       </td>
     </tr>
   </table>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Om-Varma12" alt="GitHub Streak" /></a>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Om-Varma12)](https://git.io/streak-stats)
 </div>
 
 <div align="center">
