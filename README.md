@@ -52,7 +52,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Varma12&theme=react-dark&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Varma12&theme=github-compact&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 <div align="center">  
