@@ -26,10 +26,13 @@
 ![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-%23FF9A00.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 
-![My GitHub Game](game.gif)
+
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/Om-Varma12/Om-Varma12/refs/heads/main/github-user-contribution.svg" alt="Alt text" />
+</p> -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Om-Varma12/Om-Varma12/refs/heads/main/github-user-contribution.svg" alt="Alt text" />
+  ![My GitHub Game](game.gif)
 </p>
 
 <div align="center">
