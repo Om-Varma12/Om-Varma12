@@ -30,7 +30,7 @@
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Om-Varma12/Om-Varma12/refs/heads/main/github-user-contribution.svg" alt="Alt text" />
 </p> -->
-
+![My GitHub Game](game.gif)
 <p align="center">
   ![My GitHub Game](game.gif)
 </p>
