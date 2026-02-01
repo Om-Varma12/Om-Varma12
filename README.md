@@ -31,9 +31,7 @@
   <img src="https://raw.githubusercontent.com/Om-Varma12/Om-Varma12/refs/heads/main/github-user-contribution.svg" alt="Alt text" />
 </p> -->
 ![My GitHub Game](game.gif)
-<p align="center">
-  ![My GitHub Game](game.gif)
-</p>
+
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
